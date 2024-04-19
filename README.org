@@ -1,0 +1,2 @@
+* Doom Emacs custom configuration
+** It's design for me so don't copy and paste and hope for the best🐱🐱🐱
